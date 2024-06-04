@@ -19,10 +19,5 @@ The chatbot operates by analyzing user inputs and matching them against a set of
 ## Getting Started
 To get started with this project, clone the repository and install the required dependencies.
 
-```bash
-git clone https://github.com/your-username/rule-based-chatbot.git
-cd rule-based-chatbot
-pip install -r requirements.txt
-
 ```sh
 python main.py
